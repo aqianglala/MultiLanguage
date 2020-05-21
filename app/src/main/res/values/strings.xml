@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyTestMultiLanguage</string>
+    <string name="hello_world">Hello World!</string>
+</resources>
